@@ -11,4 +11,6 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </ul>
 <br />
+<img src="https://github.com/aakanksha717/ToDoList/blob/master/Screenshots/1.png" />
+<img src="https://github.com/aakanksha717/ToDoList/blob/master/Screenshots/2.png" />
 <h3> The application is hosted <a href= "https://ancient-oasis-17399.herokuapp.com/"> here. </a> </h3>
